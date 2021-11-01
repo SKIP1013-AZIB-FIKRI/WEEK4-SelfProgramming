@@ -1,0 +1,6 @@
+Enter an integer : 
+22
+Enter Double Value : 
+33.33
+Using nextint() : 22
+Using nextdouble() : 33.33
